@@ -7,7 +7,7 @@ const HaxballJS = require("haxball.js").default;
 
 HaxballJS().then(function(HBInit) {
 
-var TOKEN = process.env.thr1.AAAAAGqceTn4vw6eKFJQHw.kclKr6rv-qc;
+var HAXBALL_TOKEN = process.env.HAXBALL_TOKEN;
 var DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
 var BAN_AUTH = "ox7I2MnaEtVO-RAYT3eyfS4fnlSErcmUpE5QosbcbqQ";
 var MAX_PLAYERS = 30;
