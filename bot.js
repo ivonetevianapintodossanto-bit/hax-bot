@@ -8,7 +8,7 @@ const HaxballJS = require("haxball.js").default;
 HaxballJS().then(function(HBInit) {
 
 var TOKEN = process.env.thr1.AAAAAGqceTn4vw6eKFJQHw.kclKr6rv-qc;
-var DISCORD_WEBHOOK_URL = process.env.https://discord.com/api/webhooks/1545852877489311867/FE3tiy0Z-Gzv1XgzYGjOOk-ZqnreVxOEThL9jGbMbXq5Wd2jdEv_TYU-1uhkp1ZhlzKO;
+var DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
 var BAN_AUTH = "ox7I2MnaEtVO-RAYT3eyfS4fnlSErcmUpE5QosbcbqQ";
 var MAX_PLAYERS = 30;
 
